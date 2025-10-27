@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Hosama Adem
 
-<!--
-**hosama-adem/Hosama-Adem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Full-Stack Developer | Competitive Programmer**
 
-Here are some ideas to get you started:
+I'm passionate about building high-quality web applications and solving challenging algorithmic problems.  
+Over the past few years, I've solved more than **350 problems** across **Codeforces** and **LeetCode**, sharpening my skills in data structures, algorithms, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌍 Based in: Addis Ababa, Ethiopia
+- 🧩 Interested in: Full-stack development, backend optimization, and system design
+- ⚔️ Competitive Programmer: Active on Codeforces and LeetCode
+- 🌱 Currently learning: Advanced React patterns & microservices architecture
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`JavaScript` • `TypeScript` • `Python` • `C++`
+
+**Frameworks & Tools:**  
+`React` • `Node.js` • `Express` • `MongoDB` • `PostgreSQL` • `Git` • `Docker`
+
+**Other:**  
+`REST APIs` • `GraphQL` • `Next.js` • `Tailwind CSS`
+
+
+
+
+## 🏆 Competitive Programming Profiles
+
+- 💥 [Codeforces](https://codeforces.com/profile/hosamaadem)  
+- 🧠 [LeetCode]()
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [Telegram][@hosam888]
+  
+
+⭐️ *“Keep learning, keep building, and keep solving.”* 
