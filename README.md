@@ -24,7 +24,7 @@ Over the past few years, I've solved more than **350 problems** across **Codefor
 `React` • `Node.js` • `Express` • `MongoDB` • `PostgreSQL` • `Git` • `Docker`
 
 **Other:**  
-`REST APIs` • `GraphQL` • `Next.js` • `Tailwind CSS`
+`REST APIs` • `Tailwind CSS`
 
 
 
