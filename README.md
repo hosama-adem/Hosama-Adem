@@ -32,7 +32,7 @@ Over the past few years, I've solved more than **350 problems** across **Codefor
 ## 🏆 Competitive Programming Profiles
 
 - 💥 [Codeforces](https://codeforces.com/profile/hosamaadem)  
-- 🧠 [LeetCode]()
+- 🧠 [LeetCode](https://leetcode.com/u/hosamaadem8/)
 
 ---
 
