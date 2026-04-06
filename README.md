@@ -3,7 +3,7 @@
 💻 **Software Engineer | Full-Stack Developer | Competitive Programmer | A2SVian**
 
 I'm passionate about building high-quality web applications and solving challenging algorithmic problems.  
-Over the past few years, I've solved more than **500 problems** across **Codeforces** and **LeetCode**, sharpening my skills in data structures, algorithms, and problem-solving.
+Over the past few years, I've solved more than **600 problems** across **Codeforces** and **LeetCode**, sharpening my skills in data structures, algorithms, and problem-solving.
 
 ---
 
