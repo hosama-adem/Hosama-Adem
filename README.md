@@ -100,7 +100,7 @@ class HosamaAdem:
       <sub>Ethiopian Collegiate Team Programming Contest 2025<br/>Team Nibras · Adama Science & Technology University</sub>
     </td>
     <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🚀_A2SV-2025%2F2026_Trainee-blue?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/_A2SV-2025%2F2026_Trainee-blue?style=for-the-badge" /><br/>
       <sub>African to Silicon Valley Program<br/>Advanced DSA · FAANG Interview Prep · Peer Collaboration</sub>
     </td>
     <td align="center" width="280">
