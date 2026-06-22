@@ -1,20 +1,23 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hosama%20Adem&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=A2SV%20Trainee%20%7C%20AI%20Builder%20%7C%20Competitive%20Programmer%20%7C%20Full-Stack%20Dev&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Competitive+Programmer+%7C+700%2B+Problems+Solved+%F0%9F%8F%86;A2SV+Trainee+%7C+ETCPC+Honorable+Mention+%F0%9F%8E%96%EF%B8%8F;Future+AI%2FML+Researcher+%F0%9F%94%AC;From+Addis+Ababa+to+Silicon+Valley+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Hosama+Adem" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A8D8EA&center=true&vCenter=true&width=800&lines=A2SV+Trainee+%7C+2025%2F2026+Cohort+%F0%9F%9A%80;Competitive+Programmer+%7C+700%2B+Problems+Solved+%F0%9F%8F%86;Building+AI-Powered+Solutions+%F0%9F%A4%96;ETCPC+Honorable+Mention+%F0%9F%8E%96%EF%B8%8F;Future+AI%2FML+Researcher+%F0%9F%94%AC;Addis+Ababa%2C+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9+%E2%86%92+Silicon+Valley" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=hosama-adem&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=hosama-adem&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 &nbsp;
 <a href="https://github.com/hosama-adem?tab=followers">
-  <img src="https://img.shields.io/github/followers/hosama-adem?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/hosama-adem?label=Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
 </a>
 
 </div>
@@ -49,9 +52,13 @@ class HosamaAdem:
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Tech Stack & Skills
 
 ### 💬 Languages
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,go&theme=dark&perline=6" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,6 +72,10 @@ class HosamaAdem:
 ### 🧩 Frameworks & Libraries
 
 <p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=6" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -73,10 +84,14 @@ class HosamaAdem:
 ### 🛠️ Tools & Platforms
 
 <p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,postgres,mongodb,linux,postman&theme=dark&perline=6" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
@@ -84,9 +99,9 @@ class HosamaAdem:
 ### 🎯 Core Domains
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend%20%26%20System%20Design-00897B?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡_Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖_AI_%26_Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏗️_Backend_%26_System_Design-00897B?style=for-the-badge"/>
 </p>
 
 ---
@@ -96,29 +111,29 @@ class HosamaAdem:
 <table align="center">
   <tr>
     <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🏅_ETCPC-Honorable_Mention-gold?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/🏅_ETCPC-Honorable_Mention-FFD700?style=for-the-badge" /><br/>
       <sub>Ethiopian Collegiate Team Programming Contest 2025<br/>Team Nibras · Adama Science & Technology University</sub>
     </td>
     <td align="center" width="280">
-      <img src="https://img.shields.io/badge/_A2SV-2025%2F2026_Trainee-blue?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/🚀_A2SV-2025%2F2026_Trainee-0A66C2?style=for-the-badge" /><br/>
       <sub>African to Silicon Valley Program<br/>Advanced DSA · FAANG Interview Prep · Peer Collaboration</sub>
     </td>
     <td align="center" width="280">
-      <img src="https://img.shields.io/badge/💻_700%2B-Problems_Solved-success?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/💻_700%2B-Problems_Solved-22863A?style=for-the-badge" /><br/>
       <sub>LeetCode · Codeforces<br/>Algorithms · Data Structures · Competitive Programming</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🎓_Full--Stack-Developer_Certified-purple?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/🎓_Full--Stack-Developer_Certified-6E40C9?style=for-the-badge" /><br/>
       <sub>Full-Stack Web Development Certification · 2025<br/>Modern frontend & backend technologies</sub>
     </td>
     <td align="center" width="280">
-      <img src="https://img.shields.io/badge/👨‍🏫_Bootcamp-Coordinator_%26_Lead-orange?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/👨‍🏫_Bootcamp-Coordinator_%26_Lead-E36209?style=for-the-badge" /><br/>
       <sub>MERN Stack & DSA Bootcamp<br/>ASTU Muslim Students Association</sub>
     </td>
     <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🤝_NCC_Team-Vice_President-red?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/🤝_NCC_Team-Vice_President-CB2431?style=for-the-badge" /><br/>
       <sub>Leadership · Event Coordination<br/>Strategic Planning · Community Engagement</sub>
     </td>
   </tr>
@@ -129,7 +144,7 @@ class HosamaAdem:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosama-adem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosama-adem&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosama-adem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -174,18 +189,23 @@ class HosamaAdem:
 <a href="https://github.com/hosama-adem">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/hosama-adem-abdurahman-867878402/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:hosamaadem8@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://t.me/hosam888">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/hosamaadem8/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+&nbsp;
 <a href="https://codeforces.com/profile/hosamaadem">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
@@ -198,9 +218,6 @@ class HosamaAdem:
 </div>
 
 ---
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 <div align="center">
   <sub>⭐ If you find my work interesting, consider giving a star — it means a lot!</sub>
