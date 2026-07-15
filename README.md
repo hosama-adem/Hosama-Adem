@@ -1,221 +1,95 @@
 <div align="center">
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Hosama+Adem" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Hosama+Adem" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A8D8EA&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+AI+Builder+%F0%9F%9A%80;A2SV+Trainee+%7C+700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Competitive+Programmer+%7C+ETCPC+Honorable+Mention+%F0%9F%8F%86;Building+Scalable+Systems+%26+AI-Powered+Applications+%F0%9F%A4%96;Open+Source+Contributor+%7C+FastAPI+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=C9D1D9&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+AI+Builder+%F0%9F%9A%80;A2SV+Trainee+%7C+Competitive+Programmer+%F0%9F%A7%A0;Building+Scalable+Systems+%26+AI-Powered+Applications;700%2B+DSA+Problems+Solved+%7C+Always+Learning" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hosama-adem&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-&nbsp;
-
-<a href="https://github.com/hosama-adem?tab=followers">
-<img src="https://img.shields.io/github/followers/hosama-adem?label=Followers&style=for-the-badge&color=181717&logo=github"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=hosama-adem&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-```python
-class HosamaAdem:
-    def __init__(self):
-        self.name = "Hosama Adem"
-        self.role = "Backend Developer & AI Builder"
-        self.education = "Software Engineering @ ASTU"
-        self.program = "A2SV Trainee (2025/2026 Cohort)"
+<p align="center">
+Software Engineering student at <b>Adama Science & Technology University</b><br/>
+A2SV Trainee passionate about backend engineering, AI, and problem solving.
+</p>
 
-        self.focus = [
-            "Backend Engineering",
-            "Artificial Intelligence",
-            "System Design",
-            "Competitive Programming"
-        ]
-
-        self.achievements = [
-            "700+ DSA Problems Solved",
-            "ETCPC Honorable Mention - Team Nibras",
-            "FastAPI Open Source Contributor"
-        ]
-
-    def mission(self):
-        return "Building impactful software through engineering and AI 🌍"
-```
+<p align="center">
+I build scalable applications, explore AI-powered solutions,<br/>
+and improve my engineering skills through competitive programming.
+</p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛡️ CodeSentinel
-
-### AI-Powered Code Review Assistant
-
-An intelligent platform that helps developers improve code quality by analyzing pull requests, detecting issues, and providing AI-powered suggestions.
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `LLMs`
-
-**Highlights**
-- 🤖 AI-powered code analysis
-- 🔍 Bug and code quality detection
-- 🔐 Security improvement suggestions
-- 🔗 GitHub integration
-
-
----
-
-## 🎬 MagicStream
-
-### AI-Powered Streaming Platform
-
-A modern streaming platform built with scalable backend architecture and AI-powered features.
-
-**Tech Stack**
-
-`Go` `React` `MongoDB` `AI APIs`
-
----
-
-## 📚 ASTUMSJ Library Management System
-
-### Full-Stack Library Platform
-
-A real-world library management system developed for ASTU Muslim Jemea.
-
-**Features**
-- Authentication
-- Book management
-- Borrowing system
-- Admin dashboard
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
----
-
-# 🛠️ Tech Stack
+<h2 align="center">⚡ My Identity</h2>
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,go&theme=dark"/>
-
-<br/><br/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis&theme=dark"/>
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark"/>
+| 🚀 Role | 🧠 Focus | 🏆 Proof |
+|---|---|---|
+| Backend Developer | APIs & Scalable Systems | 700+ DSA Problems |
+| AI Builder | LLMs & Intelligent Apps | AI Projects |
+| Competitive Programmer | Algorithms & Problem Solving | ETCPC Mention |
+| Open Source Contributor | Community Driven Development | FastAPI PR |
 
 </div>
 
 ---
 
-# 🏆 Achievements
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-🏅 **ETCPC 2025**  
-Honorable Mention  
-Team Nibras - ASTU
-
-</td>
-
-<td align="center">
-
-🚀 **A2SV Trainee**  
-Advanced DSA  
-FAANG Interview Preparation
-
-</td>
-
-<td align="center">
-
-🧠 **700+ Problems Solved**  
-LeetCode + Codeforces
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌍 Open Source
-
-🚀 Contributor to **FastAPI**
-
-- Added validation tests
-- Participated in discussions
-- Collaborated with maintainers
-
----
-
-# 📊 GitHub Stats
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosama-adem&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,java,fastapi,nodejs,react,nextjs,postgres,mongodb,redis,docker,git,linux&theme=dark&perline=5"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosama-adem&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<h2 align="center">🏆 Highlights</h2>
+
+<div align="center">
+
+🚀 <b>A2SV Trainee</b> — Advanced DSA & Software Engineering
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hosama-adem&theme=tokyonight&hide_border=true"/>
+🏅 <b>ETCPC 2025 Honorable Mention</b> — Team Nibras, ASTU
+
+<br/>
+
+🧠 <b>700+ Problems Solved</b> — LeetCode & Codeforces
+
+<br/>
+
+🌍 <b>Open Source Contributor</b> — FastAPI
 
 </div>
 
 ---
 
-# 🧩 Competitive Programming
+<h2 align="center">🌱 Currently Learning</h2>
 
-| Platform | Profile |
-|---|---|
-| 🟠 LeetCode | [hosamaadem8](https://leetcode.com/u/hosamaadem8/) |
-| 🔵 Codeforces | [hosamaadem](https://codeforces.com/profile/hosamaadem) |
+<div align="center">
 
-**700+ problems solved** covering:
-- Dynamic Programming
-- Graphs
-- Trees
-- Greedy Algorithms
-- Number Theory
+🤖 Large Language Models  
+<br/>
+🏗️ System Design & Distributed Systems  
+<br/>
+⚡ Advanced Backend Architecture  
+
+</div>
 
 ---
 
-# 🌱 Currently Learning
-
-- 🤖 Large Language Models & Generative AI
-- 🏗️ System Design
-- ⚡ Distributed Systems
-- 🧠 Advanced Algorithms
-- ☁️ Cloud & Scalable Backend Architecture
-
----
-
-# 📫 Connect With Me
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
@@ -241,6 +115,8 @@ LeetCode + Codeforces
 
 <div align="center">
 
-⭐ **Building. Learning. Sharing. Improving.**
+### 🚀 Building. Learning. Creating Impact.
+
+⭐ Thanks for visiting my profile!
 
 </div>
