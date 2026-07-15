@@ -8,217 +8,239 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A8D8EA&center=true&vCenter=true&width=800&lines=A2SV+Trainee+%7C+2025%2F2026+Cohort+%F0%9F%9A%80;Competitive+Programmer+%7C+700%2B+Problems+Solved+%F0%9F%8F%86;Building+AI-Powered+Solutions+%F0%9F%A4%96;ETCPC+Honorable+Mention+%F0%9F%8E%96%EF%B8%8F;Future+AI%2FML+Researcher+%F0%9F%94%AC;Addis+Ababa%2C+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9+%E2%86%92+Silicon+Valley" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A8D8EA&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+AI+Builder+%F0%9F%9A%80;A2SV+Trainee+%7C+700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Competitive+Programmer+%7C+ETCPC+Honorable+Mention+%F0%9F%8F%86;Building+Scalable+Systems+%26+AI-Powered+Applications+%F0%9F%A4%96;Open+Source+Contributor+%7C+FastAPI+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=hosama-adem&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=hosama-adem&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
 &nbsp;
+
 <a href="https://github.com/hosama-adem?tab=followers">
-  <img src="https://img.shields.io/github/followers/hosama-adem?label=Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/hosama-adem?label=Followers&style=for-the-badge&color=181717&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```python
 class HosamaAdem:
     def __init__(self):
-        self.name         = "Hosama Adem"
-        self.location     = "Addis Ababa, Ethiopia 🇪🇹"
-        self.education    = "Software Engineering @ Adama Science & Technology University (2nd Year)"
-        self.program      = "A2SV Trainee — 2025/2026 Cohort"
-        self.roles        = ["Full-Stack Developer", "Competitive Programmer", "AI Builder"]
-        self.cp_solved    = "700+ DSA problems across LeetCode & Codeforces"
-        self.achievement  = "🏅 ETCPC Honorable Mention — Team Nibras, ASTU"
+        self.name = "Hosama Adem"
+        self.role = "Backend Developer & AI Builder"
+        self.education = "Software Engineering @ ASTU"
+        self.program = "A2SV Trainee (2025/2026 Cohort)"
 
-    def short_term(self):
-        return ["Land a FAANG / top-tier internship", "Build & ship AI-powered products"]
+        self.focus = [
+            "Backend Engineering",
+            "Artificial Intelligence",
+            "System Design",
+            "Competitive Programming"
+        ]
 
-    def long_term(self):
-        return "AI/ML Researcher making global impact 🔬"
+        self.achievements = [
+            "700+ DSA Problems Solved",
+            "ETCPC Honorable Mention - Team Nibras",
+            "FastAPI Open Source Contributor"
+        ]
 
-    def currently_learning(self):
-        return ["Large Language Models", "System Design at Scale", "Advanced Algorithms"]
-
-    def life_outside_code(self):
-        return ["♟️ Chess", "📚 Reading", "👨‍🏫 Mentoring aspiring developers"]
+    def mission(self):
+        return "Building impactful software through engineering and AI 🌍"
 ```
 
 ---
 
-## 🚀 Tech Stack & Skills
+# 🚀 Featured Projects
 
-### 💬 Languages
+## 🛡️ CodeSentinel
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,go&theme=dark&perline=6" /></a>
-</p>
+### AI-Powered Code Review Assistant
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
+An intelligent platform that helps developers improve code quality by analyzing pull requests, detecting issues, and providing AI-powered suggestions.
 
-### 🧩 Frameworks & Libraries
+**Tech Stack**
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=6" /></a>
-</p>
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `LLMs`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+**Highlights**
+- 🤖 AI-powered code analysis
+- 🔍 Bug and code quality detection
+- 🔐 Security improvement suggestions
+- 🔗 GitHub integration
 
-### 🛠️ Tools & Platforms
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,postgres,mongodb,linux,postman&theme=dark&perline=6" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🎯 Core Domains
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖_AI_%26_Machine_Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏗️_Backend_%26_System_Design-00897B?style=for-the-badge"/>
-</p>
 
 ---
 
-## 🏆 Achievements & Experience
+## 🎬 MagicStream
+
+### AI-Powered Streaming Platform
+
+A modern streaming platform built with scalable backend architecture and AI-powered features.
+
+**Tech Stack**
+
+`Go` `React` `MongoDB` `AI APIs`
+
+---
+
+## 📚 ASTUMSJ Library Management System
+
+### Full-Stack Library Platform
+
+A real-world library management system developed for ASTU Muslim Jemea.
+
+**Features**
+- Authentication
+- Book management
+- Borrowing system
+- Admin dashboard
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,go&theme=dark"/>
+
+<br/><br/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis&theme=dark"/>
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
 
 <table align="center">
-  <tr>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🏅_ETCPC-Honorable_Mention-FFD700?style=for-the-badge" /><br/>
-      <sub>Ethiopian Collegiate Team Programming Contest 2025<br/>Team Nibras · Adama Science & Technology University</sub>
-    </td>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🚀_A2SV-2025%2F2026_Trainee-0A66C2?style=for-the-badge" /><br/>
-      <sub>African to Silicon Valley Program<br/>Advanced DSA · FAANG Interview Prep · Peer Collaboration</sub>
-    </td>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/💻_700%2B-Problems_Solved-22863A?style=for-the-badge" /><br/>
-      <sub>LeetCode · Codeforces<br/>Algorithms · Data Structures · Competitive Programming</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🎓_Full--Stack-Developer_Certified-6E40C9?style=for-the-badge" /><br/>
-      <sub>Full-Stack Web Development Certification · 2025<br/>Modern frontend & backend technologies</sub>
-    </td>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/👨‍🏫_Bootcamp-Coordinator_%26_Lead-E36209?style=for-the-badge" /><br/>
-      <sub>MERN Stack & DSA Bootcamp<br/>ASTU Muslim Students Association</sub>
-    </td>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/🤝_NCC_Team-Vice_President-CB2431?style=for-the-badge" /><br/>
-      <sub>Leadership · Event Coordination<br/>Strategic Planning · Community Engagement</sub>
-    </td>
-  </tr>
+<tr>
+
+<td align="center">
+
+🏅 **ETCPC 2025**  
+Honorable Mention  
+Team Nibras - ASTU
+
+</td>
+
+<td align="center">
+
+🚀 **A2SV Trainee**  
+Advanced DSA  
+FAANG Interview Preparation
+
+</td>
+
+<td align="center">
+
+🧠 **700+ Problems Solved**  
+LeetCode + Codeforces
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## 📊 GitHub Stats
+# 🌍 Open Source
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosama-adem&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosama-adem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+🚀 Contributor to **FastAPI**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosama-adem&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosama-adem&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-</div>
+- Added validation tests
+- Participated in discussions
+- Collaborated with maintainers
 
 ---
 
-## 🧩 Competitive Programming
+# 📊 GitHub Stats
 
 <div align="center">
 
-| Platform | Profile | Focus |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> | [hosamaadem8](https://leetcode.com/u/hosamaadem8/) | DSA · Interview Prep |
-| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/> | [hosamaadem](https://codeforces.com/profile/hosamaadem) | Competitive Programming |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosama-adem&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**700+ problems solved** across both platforms — graphs, DP, trees, greedy, number theory & more.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosama-adem&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hosama-adem&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+# 🧩 Competitive Programming
 
-- 🤖 **Large Language Models & Generative AI** — building AI-powered applications with LLM APIs
-- 🏗️ **System Design at Scale** — distributed systems, caching, load balancing
-- 🧠 **Advanced Algorithms** — preparing for ICPC & top-tier technical interviews
-- 🔬 **AI/ML Research** — laying the groundwork for my long-term research vision
+| Platform | Profile |
+|---|---|
+| 🟠 LeetCode | [hosamaadem8](https://leetcode.com/u/hosamaadem8/) |
+| 🔵 Codeforces | [hosamaadem](https://codeforces.com/profile/hosamaadem) |
+
+**700+ problems solved** covering:
+- Dynamic Programming
+- Graphs
+- Trees
+- Greedy Algorithms
+- Number Theory
 
 ---
 
-## 📫 Let's Connect
+# 🌱 Currently Learning
+
+- 🤖 Large Language Models & Generative AI
+- 🏗️ System Design
+- ⚡ Distributed Systems
+- 🧠 Advanced Algorithms
+- ☁️ Cloud & Scalable Backend Architecture
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/hosama-adem">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/hosama-adem-abdurahman-867878402/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-&nbsp;
+
+<a href="https://t.me/ethhostech">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
+</a>
+
 <a href="mailto:hosamaadem8@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-&nbsp;
-<a href="https://t.me/hosam888">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/hosamaadem8/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/hosamaadem">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-> 💬 *Open to internship opportunities, research collaborations, and meaningful AI projects.*<br/>
-> 📍 *Addis Ababa, Ethiopia — building toward a global impact.*
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐ If you find my work interesting, consider giving a star — it means a lot!</sub>
+
+⭐ **Building. Learning. Sharing. Improving.**
+
 </div>
