@@ -1,87 +1,47 @@
-<div align="center">
+# Hosama Adem
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Hosama+Adem" />
+Backend engineer building AI-powered production systems. A2SV trainee, FastAPI open-source contributor, and competitive programmer with 700+ problems solved.
 
-<br/>
+## About
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+AI+Builder+%F0%9F%9A%80;A2SV+Trainee+%7C+Competitive+Programmer;700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Building+Scalable+%26+Intelligent+Systems" />
+- 🎓 B.Sc. Software Engineering — Adama Science and Technology University (ASTU)
+- 🏛️ A2SV (Africa to Silicon Valley) — Backend Engineering Track
+- 🏆 ETCPC 2025 — Honorable Mention (Ethiopian Collegiate Programming Contest)
+- 🌍 Based in Addis Ababa, Ethiopia
 
-<br/><br/>
+## Currently Building
 
-<img src="https://komarev.com/ghpvc/?username=hosama-adem&style=for-the-badge&color=58A6FF"/>
+**[CodeSentinel](https://github.com/hosama-adem/codesentinel-platform)** — AI-powered code review platform that analyzes GitHub PRs using LLMs.  
+Async FastAPI backend → Redis queue → OpenAI pipeline → line-level PR feedback. Next.js dashboard. PostgreSQL. Deployed.
 
-</div>
+## Featured Projects
 
----
+| Project | Stack | Description |
+|---|---|---|
+| [CodeSentinel](https://github.com/hosama-adem/codesentinel-platform) | FastAPI · Next.js · OpenAI · PostgreSQL | AI code review platform with GitHub webhook integration |
+| [Portfolio](https://hosamaadem-portfolio-6ujt.vercel.app) | Next.js · TypeScript · Tailwind | Personal portfolio — deployed on Vercel |
 
-<h3 align="center">
-Software Engineering Student @ ASTU 🇪🇹
-</h3>
+## Open Source
 
-<p align="center">
-Passionate about <b>Backend Engineering</b>, <b>Artificial Intelligence</b>, and <b>Problem Solving</b>.
-<br/>
-Building reliable systems and AI-powered applications.
-</p>
+- **FastAPI** — Contributing to the [FastAPI](https://github.com/fastapi/fastapi) framework (Python web framework, 80k+ ⭐)
 
----
+## Competitive Programming
 
-<div align="center">
+- **700+** problems solved across Codeforces and LeetCode
+- **400+** Codeforces solutions
+- **ETCPC 2025** Honorable Mention
+- [Solutions Repository](https://github.com/hosama-adem/A2SV_Solved_Questions)
 
-### 🛠️ Stack
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,fastapi,nodejs,react,nextjs,postgres,mongodb,docker,git&theme=dark&perline=6"/>
+**Languages:** Python · TypeScript · Go · C++  
+**Backend:** FastAPI · Node.js · Express · gRPC  
+**Frontend:** Next.js · React · Tailwind CSS  
+**AI/ML:** OpenAI API · LangChain · Gemini API  
+**Databases:** PostgreSQL · MongoDB · Redis  
+**Infrastructure:** Docker · GitHub Actions · Linux · Vercel
 
-</div>
+## Contact
 
----
-
-<div align="center">
-
-### 🏆 Highlights
-
- A2SV Trainee  
-<br>
-🏅 ETCPC 2025 Honorable Mention  
-<br>
-🧠 700+ LeetCode & Codeforces Problems  
-<br>
-🌍 FastAPI Open Source Contributor  
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 Exploring
-
-🤖 LLMs • 🏗️ System Design • ⚡ Scalable Backend Systems
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/hosama-adem">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hosama-adem-abdurahman-867878402/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://t.me/ethhostech">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Building. Learning. Improving. 🚀
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hosama-adem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hosamaadem-portfolio-6ujt.vercel.app)
