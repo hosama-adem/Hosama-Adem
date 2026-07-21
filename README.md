@@ -20,7 +20,7 @@
 <br/>
 
 <!-- ═══════════════════ TAGLINE — LOOPING TYPING ANIMATION ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=680&height=28&lines=Building+scalable+backend+systems+%26+AI-powered+applications;Software+Engineering+%40+Adama+Science+and+Technology+University;1400%2B+competitive+programming+problems+solved;Founder+of+Tech+With+Hos+%E2%80%94+teaching+backend+%26+AI+engineering" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=680&height=28&lines=Building+scalable+backend+systems+%26+AI-powered+applications;Software+Engineering+%40+Adama+Science+and+Technology+University;700%2B+competitive+programming+problems+solved;Founder+of+Tech+With+Hos+%E2%80%94+teaching+backend+%26+AI+engineering" alt="Tagline" />
 
 <br/><br/>
 
@@ -55,7 +55,7 @@ I'm a Software Engineering student at **Adama Science and Technology University*
 
 My strongest tools are **Python** and **Go**. On the backend, I work with **FastAPI** and **Gin** to build services that scale. On the AI side, I use **LangChain**, **LangGraph**, and the **OpenAI API** to build intelligent systems that go beyond simple wrappers — applications with real reasoning, memory, and multi-step workflows.
 
-I've solved **1,400+ competitive programming problems** across A2SV, Codeforces, and LeetCode. That practice shaped how I approach engineering: break the problem down, find the right data structure, write clean code, and ship it.
+I've solved **700+ competitive programming problems** across A2SV, Codeforces, and LeetCode. That practice shaped how I approach engineering: break the problem down, find the right data structure, write clean code, and ship it.
 
 I also contribute to open source — including **FastAPI** — and run **Tech With Hos**, a platform where I teach backend engineering, AI development, and software engineering to other developers.
 
