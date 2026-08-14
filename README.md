@@ -20,7 +20,7 @@
 <br/>
 
 <!-- ═══════════════════ TAGLINE — LOOPING TYPING ANIMATION ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=680&height=28&lines=Building+scalable+backend+systems+%26+AI-powered+applications;Software+Engineering+%40+Adama+Science+and+Technology+University;700%2B+competitive+programming+problems+solved;Founder+of+Tech+With+Hos+%E2%80%94+teaching+backend+%26+AI+engineering" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=680&height=28&lines=Building+scalable+backend+systems+%26+AI-powered+applications;Software+Engineering+%40+Adama+Science+and+Technology+University;700%2B+competitive+programming+problems+solved;Founder+of+Tech+With+Hos+%E2%80%94+teaching+backend+%26+AI+engineering;Currently+building+CodeSentinel+%E2%80%94+AI+code+review+platform" alt="Tagline" />
 
 <br/><br/>
 
@@ -39,7 +39,14 @@
 </a>&nbsp;
 <a href="https://hosamaadem-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>&nbsp;
+<a href="mailto:hosamaadem8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hosama-adem&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -53,7 +60,7 @@
 
 I'm a Software Engineering student at **Adama Science and Technology University** in Addis Ababa, Ethiopia. I spend most of my time designing backend systems and building AI-powered applications — the kind of software that needs to be fast, reliable, and smart.
 
-My strongest tools are **Python** and **Go**. On the backend, I work with **FastAPI** and **Gin** to build services that scale. On the AI side, I use **LangChain**, **LangGraph**, and the **OpenAI API** to build intelligent systems that go beyond simple wrappers — applications with real reasoning, memory, and multi-step workflows.
+My strongest tools are **Python** and **Go**. On the backend, I work with **FastAPI** and **Gin** to build services that scale, testing them with **pytest** and **Testify** to keep them reliable. On the AI side, I use **LangChain**, **LangGraph**, and the **OpenAI API** to build intelligent systems that go beyond simple wrappers — applications with real reasoning, memory, and multi-step workflows.
 
 I've solved **700+ competitive programming problems** across A2SV, Codeforces, and LeetCode. That practice shaped how I approach engineering: break the problem down, find the right data structure, write clean code, and ship it.
 
@@ -70,12 +77,39 @@ My long-term goal is to become an **AI Research Engineer** and eventually lead a
 ## &nbsp;What I'm Working On
 
 ```
+→  Building CodeSentinel — an AI-powered code review & bug intelligence platform
 →  Designing scalable AI-powered backend systems
 →  Deepening expertise in distributed architecture and system design
 →  Building AI agents with LangChain and LangGraph
 →  Solving competitive programming problems daily
 →  Creating technical content through Tech With Hos
 ```
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!--                             FEATURED PROJECT                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+## &nbsp;Featured Project
+
+<div align="center">
+
+### &nbsp;🛡️ CodeSentinel
+
+**AI-powered code review and bug intelligence platform**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,redis,tailwind&theme=dark" alt="CodeSentinel Stack" />
+
+</div>
+
+CodeSentinel pairs static analysis with a dual-AI review pipeline (**GPT-4o** + **Claude Sonnet**) to catch bugs and surface intelligent, context-aware feedback on pull requests. Backend is built on **FastAPI**, structured into clean `models / schemas / routers / services / core` layers, with **PostgreSQL**, **Redis**, and **Celery** handling data and async job processing. The frontend is a **Next.js 16** + **Tailwind v4** dark-themed dashboard with full auth, project management, code review, and issue-tracking views.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Repository-hosama--adem%2Fcodesentinel--platform-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hosama-adem/codesentinel-platform)
+
+</div>
 
 <br/>
 
@@ -98,12 +132,14 @@ My long-term goal is to become an **AI Research Engineer** and eventually lead a
 <img src="https://skillicons.dev/icons?i=fastapi,express,nodejs&theme=dark" alt="Backend" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
+&nbsp;
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
 
 <br/><br/>
 
 <!-- Frontend -->
 <h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
 
 <br/><br/>
 
@@ -111,28 +147,38 @@ My long-term goal is to become an **AI Research Engineer** and eventually lead a
 <h4>AI Engineering</h4>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 
 <br/><br/>
 
 <!-- Databases -->
-<h4>Databases</h4>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" alt="Databases" />
+<h4>Databases &amp; Caching</h4>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" alt="Databases" />
+
+<br/><br/>
+
+<!-- Testing -->
+<h4>Testing</h4>
+<img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Testify" />&nbsp;
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
 
 <br/><br/>
 
 <!-- DevOps & Infrastructure -->
-<h4>DevOps & Infrastructure</h4>
+<h4>DevOps &amp; Infrastructure</h4>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux&theme=dark" alt="DevOps" />
 
 <br/><br/>
 
 <!-- Tools & Practices -->
-<h4>Tools & Practices</h4>
+<h4>Tools &amp; Practices</h4>
 <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />&nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />&nbsp;
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 
 </div>
 
@@ -212,7 +258,7 @@ A2SV didn't just improve my technical skills — it changed how I approach engin
 
 <br/><br/>
 
-**Tech With Hos** is my platform for sharing what I learn as I build. I create content for developers who want to go deeper into backend systems, AI engineering, and software development — not surface-level tutorials, but real engineering knowledge.
+**Tech With Hos** is my platform for sharing what I learn as I build. I create content for developers who want to go deeper into backend systems, AI engineering, and software development — not surface-level tutorials, but real engineering knowledge. Episodes are built from scratch: custom-designed slide decks, hand-made thumbnails, and full presenter scripts, all focused on building visual intuition for algorithms rather than just reading code.
 
 **What I cover:**
 
@@ -259,6 +305,14 @@ If you're building backend systems, working with AI, or preparing for competitiv
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosama-adem&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hosama-adem&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hosama-adem&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="90%" alt="Contribution Graph" />
+
 </div>
 
 <br/>
@@ -297,6 +351,11 @@ Whether it's about backend architecture, AI systems, competitive programming, op
 </a>
 
 <br/><br/>
+</div>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/hosama-adem/hosama-adem/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 <!-- ═══════════════════ ANIMATED WAVE FOOTER ═══════════════════ -->
