@@ -1,30 +1,41 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                                                                              -->
+
 <!--                         HOSAMA ADEM — GITHUB PROFILE                         -->
+
 <!--                                                                              -->
+
 <!--   Backend Engineer · AI Engineer · Competitive Programmer · A2SVian          -->
+
 <!--   Handcrafted. Not generated from a template.                                -->
+
 <!--                                                                              -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ═══════════════════ ANIMATED WAVE HEADER ═══════════════════ -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,45:1f6feb,70:388bfd,100:58a6ff&height=220&section=header&text=&fontSize=0" width="100%" alt="" />
 
-<!-- ═══════════════════ NAME — NON-REPEATING TYPING ANIMATION ═══════════════════ -->
+<!-- ═══════════════════ NAME ═══════════════════ -->
+
 <a href="https://github.com/hosama-adem">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=2500&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=420&height=55&lines=Hosama+Adem" alt="Hosama Adem" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════ TAGLINE — LOOPING TYPING ANIMATION ═══════════════════ -->
+<!-- ═══════════════════ TAGLINE ═══════════════════ -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=680&height=28&lines=Building+scalable+backend+systems+%26+AI-powered+applications;Software+Engineering+%40+Adama+Science+and+Technology+University;700%2B+competitive+programming+problems+solved;Founder+of+Tech+With+Hos+%E2%80%94+teaching+backend+%26+AI+engineering;Currently+building+CodeSentinel+%E2%80%94+AI+code+review+platform" alt="Tagline" />
 
 <br/><br/>
 
 <!-- ═══════════════════ SOCIAL LINKS ═══════════════════ -->
+
 <a href="https://www.linkedin.com/in/hosama-adem">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;
@@ -53,49 +64,55 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                                 ABOUT ME                                     -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;About Me
+##  About Me
 
-I'm a Software Engineering student at **Adama Science and Technology University** in Addis Ababa, Ethiopia. I spend most of my time designing backend systems and building AI-powered applications — the kind of software that needs to be fast, reliable, and smart.
+I'm a Software Engineering student at **Adama Science and Technology University** in Addis Ababa, Ethiopia, focused on building **scalable backend systems and AI-powered applications**.
 
-My strongest tools are **Python** and **Go**. On the backend, I work with **FastAPI** and **Gin** to build services that scale, testing them with **pytest** and **Testify** to keep them reliable. On the AI side, I use **LangChain**, **LangGraph**, and the **OpenAI API** to build intelligent systems that go beyond simple wrappers — applications with real reasoning, memory, and multi-step workflows.
+My core languages are **Python** and **Go**. I build backend services with **FastAPI** and **Gin**, design reliable APIs and system architectures, and use **pytest** and **Testify** to maintain production-quality code. On the AI side, I work with **LangChain**, **LangGraph**, and the **OpenAI API** to build intelligent applications with reasoning, memory, tool usage, and multi-step workflows.
 
-I've solved **700+ competitive programming problems** across A2SV, Codeforces, and LeetCode. That practice shaped how I approach engineering: break the problem down, find the right data structure, write clean code, and ship it.
+I've solved **700+ competitive programming problems** through A2SV, Codeforces, and LeetCode. Competitive programming has shaped the way I engineer: understand the constraints, break complex problems down, choose the right approach, and write efficient, maintainable solutions.
 
-I also contribute to open source — including **FastAPI** — and run **Tech With Hos**, a platform where I teach backend engineering, AI development, and software engineering to other developers.
+I also contribute to open source, including **FastAPI**, and run **Tech With Hos**, where I share what I learn about backend engineering, AI development, software engineering, and problem solving.
 
-My long-term goal is to become an **AI Research Engineer** and eventually lead an AI research team at a company like **Google** or **Anthropic**.
+My long-term goal is to become an **AI Research Engineer** and eventually lead an AI research team at a company such as **Google** or **Anthropic**.
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                              CURRENT FOCUS                                   -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;What I'm Working On
+##  What I'm Working On
 
-```
+```text
 →  Building CodeSentinel — an AI-powered code review & bug intelligence platform
 →  Designing scalable AI-powered backend systems
-→  Deepening expertise in distributed architecture and system design
+→  Deepening expertise in distributed systems and system design
 →  Building AI agents with LangChain and LangGraph
-→  Solving competitive programming problems daily
+→  Solving competitive programming problems consistently
 →  Creating technical content through Tech With Hos
 ```
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                             FEATURED PROJECT                                 -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Featured Project
+##  Featured Project
 
 <div align="center">
 
-### &nbsp;🛡️ CodeSentinel
+###  🛡️ CodeSentinel
 
 **AI-powered code review and bug intelligence platform**
 
@@ -103,31 +120,39 @@ My long-term goal is to become an **AI Research Engineer** and eventually lead a
 
 </div>
 
-CodeSentinel pairs static analysis with a dual-AI review pipeline (**GPT-4o** + **Claude Sonnet**) to catch bugs and surface intelligent, context-aware feedback on pull requests. Backend is built on **FastAPI**, structured into clean `models / schemas / routers / services / core` layers, with **PostgreSQL**, **Redis**, and **Celery** handling data and async job processing. The frontend is a **Next.js 16** + **Tailwind v4** dark-themed dashboard with full auth, project management, code review, and issue-tracking views.
+CodeSentinel combines static analysis with a dual-AI review pipeline (**GPT-4o** + **Claude Sonnet**) to identify bugs and provide context-aware feedback on pull requests.
+
+The backend is built with **FastAPI** and organized into clean `models / schemas / routers / services / core` layers, with **PostgreSQL**, **Redis**, and **Celery** supporting data management, caching, and asynchronous processing.
+
+The frontend is built with **Next.js 16** and **Tailwind v4**, providing a dark-themed dashboard with authentication, project management, code review, and issue-tracking workflows.
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/Repository-hosama--adem%2Fcodesentinel--platform-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hosama-adem/codesentinel-platform)
+[![Repo](https://img.shields.io/badge/Repository-hosama--adem%2Fcodesentinel--platform-1f6feb?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hosama-adem/codesentinel-platform)
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                               TECH STACK                                     -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 <!-- Languages -->
+
 <h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=python,go,typescript,cpp,java,javascript&theme=dark" alt="Languages" />
 
 <br/><br/>
 
 <!-- Backend -->
+
 <h4>Backend</h4>
 <img src="https://skillicons.dev/icons?i=fastapi,express,nodejs&theme=dark" alt="Backend" />
 &nbsp;&nbsp;
@@ -138,12 +163,14 @@ CodeSentinel pairs static analysis with a dual-AI review pipeline (**GPT-4o** + 
 <br/><br/>
 
 <!-- Frontend -->
+
 <h4>Frontend</h4>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
 
 <br/><br/>
 
 <!-- AI Engineering -->
+
 <h4>AI Engineering</h4>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;
@@ -153,12 +180,14 @@ CodeSentinel pairs static analysis with a dual-AI review pipeline (**GPT-4o** + 
 <br/><br/>
 
 <!-- Databases -->
+
 <h4>Databases &amp; Caching</h4>
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" alt="Databases" />
 
 <br/><br/>
 
 <!-- Testing -->
+
 <h4>Testing</h4>
 <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Testify" />&nbsp;
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
@@ -166,12 +195,14 @@ CodeSentinel pairs static analysis with a dual-AI review pipeline (**GPT-4o** + 
 <br/><br/>
 
 <!-- DevOps & Infrastructure -->
+
 <h4>DevOps &amp; Infrastructure</h4>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux&theme=dark" alt="DevOps" />
 
 <br/><br/>
 
 <!-- Tools & Practices -->
+
 <h4>Tools &amp; Practices</h4>
 <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
 &nbsp;&nbsp;
@@ -185,38 +216,44 @@ CodeSentinel pairs static analysis with a dual-AI review pipeline (**GPT-4o** + 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                          COMPETITIVE PROGRAMMING                             -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Competitive Programming
+##  Competitive Programming
 
-Problem-solving is how I learned to think about software. Before I write a system, I think about constraints, edge cases, and optimal approaches — habits built from solving **1,400+ problems** across major competitive programming platforms.
+Problem solving is one of the foundations of how I approach software engineering. Before building a system, I think about constraints, edge cases, complexity, and the most effective approach.
+
+I've solved **1,400+ problems** across major competitive programming platforms.
 
 <div align="center">
 <br/>
 
-| Platform | Problems Solved | Achievement |
-|:--------:|:---------------:|:-----------:|
-| **A2SV** | **700+** | — |
-| **Codeforces** | **400+** | Pupil |
-| [**LeetCode**](https://leetcode.com/u/hosamaadem8/) | **300+** | — |
+|                       Platform                      | Problems Solved | Achievement |
+| :-------------------------------------------------: | :-------------: | :---------: |
+|                       **A2SV**                      |     **700+**    |      —      |
+|                    **Codeforces**                   |     **400+**    |    Pupil    |
+| [**LeetCode**](https://leetcode.com/u/hosamaadem8/) |     **300+**    |      —      |
 
 <br/>
 </div>
 
 **Achievements**
 
-- **ICPC** — Honorable Mention
-- **ETCPC** — Honorable Mention
-- **Strongest area** — Graph Algorithms &bull; Dijkstra's Algorithm
+* **ICPC** — Honorable Mention
+* **ETCPC** — Honorable Mention
+* **Strongest area** — Graph Algorithms • Dijkstra's Algorithm
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                                  A2SV                                        -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;A2SV
+##  A2SV
 
 <div>
 
@@ -224,28 +261,30 @@ Problem-solving is how I learned to think about software. Before I write a syste
 
 <br/><br/>
 
-[A2SV](https://a2sv.org) has been one of the most defining chapters of my engineering journey. The program pushed me to solve **700+ problems**, compete at a high level, and build software with real engineering standards — not just code that works, but code that scales.
+[A2SV](https://a2sv.org) has been one of the most influential parts of my engineering journey. It pushed me to solve **700+ problems**, compete at a high level, and approach software development with stronger engineering standards.
 
-What A2SV strengthened:
+Through A2SV, I strengthened:
 
-- **Data Structures & Algorithms** — deep, contest-level understanding of core CS concepts
-- **Competitive Programming** — consistent, high-intensity practice across hundreds of problems
-- **Problem Solving** — learning to decompose complex problems into clean, efficient solutions
-- **Software Engineering** — building production-grade systems with proper architecture
-- **Collaboration** — working alongside driven engineers from across Africa
-- **Continuous Learning** — the discipline to keep improving, every single day
+* **Data Structures & Algorithms** — deep understanding of core CS concepts and algorithmic techniques
+* **Competitive Programming** — consistent practice across hundreds of challenging problems
+* **Problem Solving** — breaking complex problems into efficient, maintainable solutions
+* **Software Engineering** — applying architecture and engineering principles beyond simply making code work
+* **Collaboration** — working with motivated engineers from across Africa
+* **Continuous Learning** — developing the discipline to improve consistently
 
-A2SV didn't just improve my technical skills — it changed how I approach engineering entirely.
+A2SV didn't just improve my technical skills — it fundamentally changed how I approach engineering.
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                             TECH WITH HOS                                    -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Tech With Hos
+##  Tech With Hos
 
 <div>
 
@@ -258,7 +297,9 @@ A2SV didn't just improve my technical skills — it changed how I approach engin
 
 <br/><br/>
 
-**Tech With Hos** is my platform for sharing what I learn as I build. I create content for developers who want to go deeper into backend systems, AI engineering, and software development — not surface-level tutorials, but real engineering knowledge. Episodes are built from scratch: custom-designed slide decks, hand-made thumbnails, and full presenter scripts, all focused on building visual intuition for algorithms rather than just reading code.
+**Tech With Hos** is my platform for sharing what I learn while building. I create content for developers who want to go deeper into **backend engineering, AI engineering, software development, and problem solving**.
+
+The goal is simple: turn complex technical concepts into clear, practical knowledge. I build content from scratch, including custom slide decks, hand-made thumbnails, and presenter scripts, with a strong focus on developing intuition rather than simply following code.
 
 **What I cover:**
 
@@ -266,34 +307,36 @@ A2SV didn't just improve my technical skills — it changed how I approach engin
 <tr>
 <td width="50%">
 
-- Backend Engineering & System Design
-- AI Engineering & LLM Applications
-- Software Engineering Best Practices
-- Competitive Programming Insights
+* Backend Engineering & System Design
+* AI Engineering & LLM Applications
+* Software Engineering Best Practices
+* Competitive Programming Insights
 
 </td>
 <td width="50%">
 
-- Learning Roadmaps & Career Advice
-- Modern Developer Tools & Workflows
-- Programming Tutorials
-- Productivity for Engineers
+* Learning Roadmaps & Career Advice
+* Modern Developer Tools & Workflows
+* Programming Tutorials
+* Productivity for Engineers
 
 </td>
 </tr>
 </table>
 
-If you're building backend systems, working with AI, or preparing for competitive programming — I'd genuinely appreciate you checking it out.
+If you're building backend systems, exploring AI, or preparing for competitive programming, feel free to connect and follow along.
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                              GITHUB STATS                                    -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -318,12 +361,14 @@ If you're building backend systems, working with AI, or preparing for competitiv
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <!--                                CONNECT                                       -->
+
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Let's Connect
+##  Let's Connect
 
-Whether it's about backend architecture, AI systems, competitive programming, open-source collaboration, or just a good technical conversation — I'm always open to connecting.
+Whether you're interested in **backend architecture, AI systems, competitive programming, open source, or software engineering**, I'm always open to connecting and having a meaningful technical conversation.
 
 <div align="center">
 <br/>
@@ -351,14 +396,17 @@ Whether it's about backend architecture, AI systems, competitive programming, op
 </a>
 
 <br/><br/>
+
 </div>
 
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/hosama-adem/hosama-adem/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 <!-- ═══════════════════ ANIMATED WAVE FOOTER ═══════════════════ -->
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:388bfd,55:1f6feb,80:161b22,100:0d1117&height=130&section=footer" width="100%" alt="" />
 </div>
