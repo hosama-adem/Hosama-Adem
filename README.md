@@ -301,7 +301,7 @@ A2SV didn't just improve my technical skills — it fundamentally changed how I 
 
 The goal is simple: turn complex technical concepts into clear, practical knowledge. I build content from scratch, including custom slide decks, hand-made thumbnails, and presenter scripts, with a strong focus on developing intuition rather than simply following code.
 
-**What I cover:**
+**Currently Learning:**
 
 <table>
 <tr>
