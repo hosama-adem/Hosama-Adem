@@ -1,412 +1,185 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                                                                              -->
-
 <!--                         HOSAMA ADEM — GITHUB PROFILE                         -->
-
-<!--                                                                              -->
-
-<!--   Backend Engineer · AI Engineer · Competitive Programmer · A2SVian          -->
-
-<!--   Handcrafted. Not generated from a template.                                -->
-
-<!--                                                                              -->
-
+<!--   Backend Systems Engineer · AI Engineer · Competitive Programmer · A2SVian  -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ═══════════════════ ANIMATED WAVE HEADER ═══════════════════ -->
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:388bfd,100:58a6ff&height=220&section=header&text=&fontSize=0" width="100%" alt="Header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,45:1f6feb,70:388bfd,100:58a6ff&height=220&section=header&text=&fontSize=0" width="100%" alt="" />
-
-<!-- ═══════════════════ NAME ═══════════════════ -->
-
+<!-- ═══════════════════ TYPING NAME & ROLES ═══════════════════ -->
 <a href="https://github.com/hosama-adem">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=2500&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=420&height=55&lines=Hosama+Adem" alt="Hosama Adem" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=38&duration=2500&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=450&height=50&lines=Hosama+Adem" alt="Hosama Adem" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════ TAGLINE ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=680&height=28&lines=Building+scalable+backend+systems+%26+AI-powered+applications;Software+Engineering+%40+Adama+Science+and+Technology+University;700%2B+competitive+programming+problems+solved;Founder+of+Tech+With+Hos+%E2%80%94+teaching+backend+%26+AI+engineering;Currently+building+CodeSentinel+%E2%80%94+AI+code+review+platform" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=780&height=32&lines=Building+Scalable+Distributed+Backends+%26+Production+AI+Systems;Software+Engineering+%40+Adama+Science+and+Technology+University;A2SVian+%7C+700%2B+Data+Structures+%26+Algorithms+Problems+Solved;Founder+of+Tech+With+Hos+%E2%80%94+Mentoring+Next-Gen+Engineers;Specialized+in+Go%2C+Python%2C+FastAPI%2C+LangChain%2C+and+Docker" alt="Tagline" />
 
 <br/><br/>
 
-<!-- ═══════════════════ SOCIAL LINKS ═══════════════════ -->
-
-<a href="https://www.linkedin.com/in/hosama-adem">
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
+<a href="https://www.linkedin.com/in/hosama-adem" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;
-<a href="https://x.com/hosamadem">
+<a href="https://x.com/hosamadem" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>&nbsp;
-<a href="https://youtube.com/@TechWithHos">
+<a href="https://youtube.com/@TechWithHos" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>&nbsp;
-<a href="https://t.me/ethhostech">
+<a href="https://t.me/ethhostech" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>&nbsp;
-<a href="https://hosamaadem-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://hosamaadem-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>&nbsp;
 <a href="mailto:hosamaadem8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hosama-adem&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hosama-adem&style=flat-square&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+---
 
-<!--                                 ABOUT ME                                     -->
+### 👨‍💻 About Me
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+I am a **Software Engineering student at Adama Science and Technology University (ASTU)** and an **A2SVian (Africa to Silicon Valley)** specialized in architecting **high-performance backend services** and **production-grade AI/RAG platforms**.
 
-##  About Me
-
-I'm a Software Engineering student at **Adama Science and Technology University** in Addis Ababa, Ethiopia, focused on building **scalable backend systems and AI-powered applications**.
-
-My core languages are **Python** and **Go**. I build backend services with **FastAPI** and **Gin**, design reliable APIs and system architectures, and use **pytest** and **Testify** to maintain production-quality code. On the AI side, I work with **LangChain**, **LangGraph**, and the **OpenAI API** to build intelligent applications with reasoning, memory, tool usage, and multi-step workflows.
-
-I've solved **700+ competitive programming problems** through A2SV, Codeforces, and LeetCode. Competitive programming has shaped the way I engineer: understand the constraints, break complex problems down, choose the right approach, and write efficient, maintainable solutions.
-
-I also contribute to open source, including **FastAPI**, and run **Tech With Hos**, where I share what I learn about backend engineering, AI development, software engineering, and problem solving.
-
-My long-term goal is to become an **AI Research Engineer** and eventually lead an AI research team at a company such as **Google** or **Anthropic**.
+- 🔭 **Systems & Backend**: Crafting concurrent distributed services in **Go** and high-throughput REST APIs in **FastAPI/Python** using Clean Architecture and Domain-Driven Design (DDD).
+- 🧠 **AI & LLM Engineering**: Building contextual knowledge assistants, agentic workflows, and semantic retrieval engines with **LangChain**, **LangGraph**, **FAISS**, and **Sentence Transformers**.
+- ⚡ **Algorithmic Problem Solving**: Solved **700+ algorithmic challenges** across Codeforces, LeetCode, and HackerRank with an emphasis on graph theory, dynamic programming, and concurrency patterns.
+- 🎓 **Leadership & Community**: Creator of **Tech With Hos**, teaching software architecture, competitive programming, and backend engineering to over 1,000+ aspiring engineers.
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+---
 
-<!--                              CURRENT FOCUS                                   -->
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-##  What I'm Working On
-
-```text
-→  Building CodeSentinel — an AI-powered code review & bug intelligence platform
-→  Designing scalable AI-powered backend systems
-→  Deepening expertise in distributed systems and system design
-→  Building AI agents with LangChain and LangGraph
-→  Solving competitive programming problems consistently
-→  Creating technical content through Tech With Hos
-```
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                             FEATURED PROJECT                                 -->
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-##  Featured Project
-
-<div align="center">
-
-###  🛡️ CodeSentinel
-
-**AI-powered code review and bug intelligence platform**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,redis,tailwind&theme=dark" alt="CodeSentinel Stack" />
-
-</div>
-
-CodeSentinel combines static analysis with a dual-AI review pipeline (**GPT-4o** + **Claude Sonnet**) to identify bugs and provide context-aware feedback on pull requests.
-
-The backend is built with **FastAPI** and organized into clean `models / schemas / routers / services / core` layers, with **PostgreSQL**, **Redis**, and **Celery** supporting data management, caching, and asynchronous processing.
-
-The frontend is built with **Next.js 16** and **Tailwind v4**, providing a dark-themed dashboard with authentication, project management, code review, and issue-tracking workflows.
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Repository-hosama--adem%2Fcodesentinel--platform-1f6feb?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hosama-adem/codesentinel-platform)
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                               TECH STACK                                     -->
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-##  Tech Stack
-
-<div align="center">
-
-<!-- Languages -->
-
-<h4>Languages</h4>
-<img src="https://skillicons.dev/icons?i=python,go,typescript,cpp,java,javascript&theme=dark" alt="Languages" />
-
-<br/><br/>
-
-<!-- Backend -->
-
-<h4>Backend</h4>
-<img src="https://skillicons.dev/icons?i=fastapi,express,nodejs&theme=dark" alt="Backend" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
-&nbsp;
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-
-<br/><br/>
-
-<!-- Frontend -->
-
-<h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
-
-<br/><br/>
-
-<!-- AI Engineering -->
-
-<h4>AI Engineering</h4>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-
-<br/><br/>
-
-<!-- Databases -->
-
-<h4>Databases &amp; Caching</h4>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" alt="Databases" />
-
-<br/><br/>
-
-<!-- Testing -->
-
-<h4>Testing</h4>
-<img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Testify" />&nbsp;
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
-
-<br/><br/>
-
-<!-- DevOps & Infrastructure -->
-
-<h4>DevOps &amp; Infrastructure</h4>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux&theme=dark" alt="DevOps" />
-
-<br/><br/>
-
-<!-- Tools & Practices -->
-
-<h4>Tools &amp; Practices</h4>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />&nbsp;
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />&nbsp;
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                          COMPETITIVE PROGRAMMING                             -->
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-##  Competitive Programming
-
-Problem solving is one of the foundations of how I approach software engineering. Before building a system, I think about constraints, edge cases, complexity, and the most effective approach.
-
-I've solved **1,400+ problems** across major competitive programming platforms.
-
-<div align="center">
-<br/>
-
-|                       Platform                      | Problems Solved | Achievement |
-| :-------------------------------------------------: | :-------------: | :---------: |
-|                       **A2SV**                      |     **700+**    |      —      |
-|                    **Codeforces**                   |     **400+**    |    Pupil    |
-| [**LeetCode**](https://leetcode.com/u/hosamaadem8/) |     **300+**    |      —      |
-
-<br/>
-</div>
-
-**Achievements**
-
-* **ICPC** — Honorable Mention
-* **ETCPC** — Honorable Mention
-* **Strongest area** — Graph Algorithms • Dijkstra's Algorithm
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                                  A2SV                                        -->
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-##  A2SV
-
-<div>
-
-<img src="https://img.shields.io/badge/A2SV-Africa_to_Silicon_Valley-1f6feb?style=for-the-badge" alt="A2SV Member" />
-
-<br/><br/>
-
-[A2SV](https://a2sv.org) has been one of the most influential parts of my engineering journey. It pushed me to solve **700+ problems**, compete at a high level, and approach software development with stronger engineering standards.
-
-Through A2SV, I strengthened:
-
-* **Data Structures & Algorithms** — deep understanding of core CS concepts and algorithmic techniques
-* **Competitive Programming** — consistent practice across hundreds of challenging problems
-* **Problem Solving** — breaking complex problems into efficient, maintainable solutions
-* **Software Engineering** — applying architecture and engineering principles beyond simply making code work
-* **Collaboration** — working with motivated engineers from across Africa
-* **Continuous Learning** — developing the discipline to improve consistently
-
-A2SV didn't just improve my technical skills — it fundamentally changed how I approach engineering.
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                             TECH WITH HOS                                    -->
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-##  Tech With Hos
-
-<div>
-
-<a href="https://youtube.com/@TechWithHos">
-  <img src="https://img.shields.io/badge/YouTube-Tech_With_Hos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tech With Hos YouTube" />
-</a>&nbsp;
-<a href="https://t.me/ethhostech">
-  <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Tech With Hos Telegram" />
-</a>
-
-<br/><br/>
-
-**Tech With Hos** is my platform for sharing what I learn while building. I create content for developers who want to go deeper into **backend engineering, AI engineering, software development, and problem solving**.
-
-The goal is simple: turn complex technical concepts into clear, practical knowledge. I build content from scratch, including custom slide decks, hand-made thumbnails, and presenter scripts, with a strong focus on developing intuition rather than simply following code.
-
-**Currently Learning:**
+### 🚀 Flagship Project Highlights
 
 <table>
-<tr>
-<td width="50%">
-
-* Backend Engineering & System Design
-* AI Engineering & LLM Applications
-* Software Engineering Best Practices
-* Competitive Programming Insights
-
-</td>
-<td width="50%">
-
-* Learning Roadmaps & Career Advice
-* Modern Developer Tools & Workflows
-* Programming Tutorials
-* Productivity for Engineers
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Hos AI — Enterprise RAG Platform</h3>
+      <p align="center">
+        <a href="https://github.com/hosama-adem/Hos-Ai">
+          <img src="https://img.shields.io/badge/Repo-Hos_AI-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Hos AI Repo" />
+        </a>
+      </p>
+      <p>A full-stack, enterprise-grade <b>Retrieval-Augmented Generation (RAG) assistant</b> that transforms documents (PDF, TXT, MD) into context-aware conversational AI with cited source attribution.</p>
+      <ul>
+        <li><b>Impact</b>: Sub-200ms vector search latency with FAISS and Sentence Transformers.</li>
+        <li><b>Security</b>: JWT + Bcrypt authentication, CORS protection, rate-limiting, and SQLModel ORM.</li>
+        <li><b>Stack</b>: FastAPI, Next.js 16 (Turbopack), PostgreSQL, FAISS, Docker Compose.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ CodeSentinel — AI Code Reviewer</h3>
+      <p align="center">
+        <a href="https://codesentinel-three.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-CodeSentinel-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>&nbsp;
+        <a href="https://github.com/hosama-adem/codesentinel-platform">
+          <img src="https://img.shields.io/badge/Repo-CodeSentinel-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="CodeSentinel Repo" />
+        </a>
+      </p>
+      <p>Automated <b>AI-powered pull request & security auditor</b> that scans codebases for vulnerabilities, logic bugs, AST anti-patterns, and test coverage gaps.</p>
+      <ul>
+        <li><b>Impact</b>: 90%+ precision on OWASP top vulnerabilities with line-level diff suggestions.</li>
+        <li><b>Features</b>: Multi-model support (Claude / GPT-4o), interactive diff UI, analytics dashboard.</li>
+        <li><b>Stack</b>: FastAPI, React 18, TypeScript, TailwindCSS, Docker, GitHub Webhooks.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ Go Load Balancer — Concurrent Reverse Proxy</h3>
+      <p align="center">
+        <a href="https://github.com/hosama-adem/go-loadbalancer">
+          <img src="https://img.shields.io/badge/Repo-Go_LoadBalancer-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Go Load Balancer Repo" />
+        </a>
+      </p>
+      <p>High-throughput HTTP reverse proxy and load balancer written in pure <b>Go</b> featuring active background health checking, mutex-safe backend pools, and configurable retry policies.</p>
+      <ul>
+        <li><b>Impact</b>: Handles thousands of concurrent HTTP requests with zero-allocation round-robin routing.</li>
+        <li><b>Reliability</b>: Automatic failover, exponential backoff retries, and comprehensive unit tests.</li>
+        <li><b>Stack</b>: Go (Golang), Goroutines, Mutex Synchronization, GitHub Actions CI.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ Task Manager API — Clean Architecture</h3>
+      <p align="center">
+        <a href="https://github.com/hosama-adem/task_manager_final">
+          <img src="https://img.shields.io/badge/Repo-Task_Manager_API-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Task Manager Repo" />
+        </a>
+      </p>
+      <p>Production-ready REST API built with <b>Gin and MongoDB</b> following Uncle Bob's <b>Clean Architecture</b> (Delivery, Usecase, Domain, Repository layers) with Mockery unit tests.</p>
+      <ul>
+        <li><b>Impact</b>: 100% decoupled business logic with JWT role-based access control (RBAC).</li>
+        <li><b>Testing</b>: Comprehensive unit testing suite using Testify and Mockery mocks.</li>
+        <li><b>Stack</b>: Go, Gin Framework, MongoDB Driver, JWT, Bcrypt, Mockery.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-If you're building backend systems, exploring AI, or preparing for competitive programming, feel free to connect and follow along.
+<br/>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **Backend & Architecture** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Architecture-4A154B?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logoColor=white" /> |
+| **AI & LLM Engineering** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS-0468D7?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Pipelines-58A6FF?style=flat-square&logoColor=white" /> |
+| **Databases & Storage** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> |
+| **DevOps & Cloud** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
+| **Testing & Tooling** | <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Testify-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Mockery-4A154B?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+---
 
-<!--                              GITHUB STATS                                    -->
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-##  GitHub Activity
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hosama-adem&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hosama-adem&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=hosama-adem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosama-adem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosama-adem&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hosama-adem&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hosama-adem&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="90%" alt="Contribution Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hosama-adem&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="90%" alt="GitHub Streak Stats" />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+---
 
-<!--                                CONNECT                                       -->
+### 🎯 Current Focus & Collaboration
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+- 🔭 **Currently Building**: Expanding **Hos AI** with autonomous multi-agent tool execution and evaluation benchmarks.
+- 👯 **Open to Collaborate On**: High-concurrency backend services, distributed systems in Go, and production LLM/RAG pipelines.
+- 💬 **Ask Me About**: Backend System Architecture, Clean Architecture in Go, RAG optimization, and Competitive Programming algorithms.
+- 📫 **How to reach me**: Reach out directly on [LinkedIn](https://www.linkedin.com/in/hosama-adem) or via [Email](mailto:hosamaadem8@gmail.com).
 
-##  Let's Connect
-
-Whether you're interested in **backend architecture, AI systems, competitive programming, open source, or software engineering**, I'm always open to connecting and having a meaningful technical conversation.
-
-<div align="center">
 <br/>
 
-<a href="mailto:hosamaadem8@gmail.com">
-  <img src="https://img.shields.io/badge/hosamaadem8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/hosama-adem">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-<a href="https://x.com/hosamadem">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>&nbsp;
-<a href="https://youtube.com/@TechWithHos">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>&nbsp;
-<a href="https://t.me/ethhostech">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>&nbsp;
-<a href="https://hosamaadem-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-</div>
-
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/hosama-adem/hosama-adem/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-<!-- ═══════════════════ ANIMATED WAVE FOOTER ═══════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:388bfd,55:1f6feb,80:161b22,100:0d1117&height=130&section=footer" width="100%" alt="" />
+  <sub>Designed & Crafted by <a href="https://github.com/hosama-adem"><b>Hosama Adem</b></a> • Keep building and shipping. 🚀</sub>
 </div>
