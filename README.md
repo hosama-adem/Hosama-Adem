@@ -173,7 +173,7 @@ I am a **Software Engineering student at Adama Science and Technology University
 
 ### 🎯 Current Focus & Collaboration
 
-- 🔭 **Currently Building**: Expanding **Hos AI** with autonomous multi-agent tool execution and evaluation benchmarks.
+- 🔭 **Currently Building**: Expanding **Hos AI** with autonomous multi-agent tool execution and evaluation benchmarks\.
 - 👯 **Open to Collaborate On**: High-concurrency backend services, distributed systems in Go, and production LLM/RAG pipelines.
 - 💬 **Ask Me About**: Backend System Architecture, Clean Architecture in Go, RAG optimization, and Competitive Programming algorithms.
 - 📫 **How to reach me**: Reach out directly on [LinkedIn](https://www.linkedin.com/in/hosama-adem) or via [Email](mailto:hosamaadem8@gmail.com).
