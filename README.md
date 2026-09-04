@@ -62,7 +62,7 @@ I am a **Software Engineering student at Adama Science and Technology University
 
 ---
 
-### 🚀 Flagship Project Highlights
+###  Flagship Project Highlights
 
 <table>
   <tr>
