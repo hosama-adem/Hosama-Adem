@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=840&height=34&lines=Senior+Backend+%26+Distributed+Systems+Engineer;Production+AI+%26+Cloud+Systems+Architect;A2SV+Fellow+%7C+ETCPC+2025+Honorable+Mention+%7C+800%2B+DSA+Solved;Architect+%40+SRAHub+%C2%B7+Founder+%40+Tech+With+Hos;Specializing+in+Go%2C+Python%2C+FastAPI%2C+Clean+Architecture+%26+Docker" alt="Senior Roles Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=860&height=34&lines=Senior+Backend+%26+Distributed+Systems+Engineer;Production+AI+%26+Cloud+Systems+Architect;A2SV+Fellow+%7C+ETCPC+2025+Honorable+Mention+%7C+800%2B+DSA+Solved;Architect+%40+SRAHub+%C2%B7+Founder+%40+Tech+With+Hos;Specializing+in+Go%2C+Python%2C+FastAPI%2C+Kubernetes+%26+Docker" alt="Senior Roles Tagline" />
 
 <br/><br/>
 
@@ -70,25 +70,31 @@
 
 <div align="center">
 
-<!-- PYRAMIDAL TIER 1: LANGUAGES & RUNTIMES (7 LOGOS) -->
+<!-- TIER 1: LANGUAGES & CORE RUNTIMES -->
 <p>
   <b>LANGUAGES & CORE RUNTIMES</b><br/>
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,c,ts,js,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=go,python,fastapi,cpp,ts,js,bash&theme=dark" alt="Languages & Frameworks" />
 </p>
 
-<!-- PYRAMIDAL TIER 2: DISTRIBUTED SYSTEMS & BACKEND (5 LOGOS) -->
+<!-- TIER 2: DISTRIBUTED BACKENDS & DATA STORES -->
 <p>
-  <b>DISTRIBUTED SYSTEMS, BACKEND & APIS</b><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,mysql&theme=dark" alt="Backend & Databases" />
+  <b>DISTRIBUTED BACKEND & DATA STORES</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Backend & Databases" />
 </p>
 
-<!-- PYRAMIDAL TIER 3: CLOUD INFRASTRUCTURE & DEVOPS (4 LOGOS) -->
+<!-- TIER 3: PRODUCTION AI & MACHINE LEARNING -->
 <p>
-  <b>CLOUD, DEVOPS & OBSERVABILITY</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,vercel&theme=dark" alt="DevOps & Cloud" />
+  <b>ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI & Machine Learning" />
 </p>
 
-<!-- PYRAMIDAL TIER 4: TESTING & TOOLING (3 LOGOS) -->
+<!-- TIER 4: CLOUD INFRASTRUCTURE, DEVOPS & CONTAINER ORCHESTRATION -->
+<p>
+  <b>CLOUD, DEVOPS & INFRASTRUCTURE</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,vercel&theme=dark" alt="DevOps & Cloud" />
+</p>
+
+<!-- TIER 5: TESTING & DEVELOPER TOOLING -->
 <p>
   <b>TESTING, PROTOCOLS & TOOLING</b><br/>
   <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" alt="Testing & Tools" />
