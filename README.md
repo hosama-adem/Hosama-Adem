@@ -74,7 +74,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" alt="Go · Python · FastAPI · C++ · TypeScript · JavaScript · Bash · PostgreSQL · MongoDB · Redis · MySQL · PyTorch · TensorFlow · scikit-learn · OpenCV · Docker · Kubernetes · GitHub Actions · Linux · Vercel · Git · Postman · VS Code" width="90%" />
+  <img src="./assets/tech-stack.svg" alt="Git · Postman · VS Code · PostgreSQL · MongoDB · Redis · MySQL · FastAPI · PyTorch · TensorFlow · scikit-learn · OpenCV · Docker · Kubernetes · GitHub Actions · Linux · Vercel · Bash · Go · Python · C · C++ · TypeScript · JavaScript · React" />
 </div>
 
 <br/>
