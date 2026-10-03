@@ -41,170 +41,41 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hosama-adem&style=flat-square&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=false&width=750&height=40&lines=System+Reliability+%C2%B7+High+Concurrency+%C2%B7+Algorithmic+Rigor" alt="System Reliability · High Concurrency · Algorithmic Rigor" />
 
 </div>
 
-<br/>
-
----
-
-### 👨‍💻 Executive Summary
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=false&width=750&height=40&lines=System+Reliability+%C2%B7+High+Concurrency+%C2%B7+Algorithmic+Rigor" alt="Philosophy Banner" />
-</div>
-
-> **Software Systems Engineer** and **A2SV (Africa to Silicon Valley) Fellow** based at Adama Science and Technology University (ASTU). Dedicated to engineering **fault-tolerant distributed backends**, **high-concurrency network services in Go**, and **production-ready cloud platforms**.
-
-- ⚙️ **Distributed Backends & Concurrency**: Architecting thread-safe reverse proxies, load balancers, and resilient REST/gRPC APIs utilizing Uncle Bob's **Clean Architecture**, Domain-Driven Design (DDD), and concurrency primitives (goroutines, channels, mutex synchronization).
-- 🧠 **Production AI & Retrieval Systems**: Designing high-throughput vector retrieval engines, automated code audit pipelines, and LLM evaluation architectures with **FastAPI**, **LangChain**, and **Docker**.
-- 🏆 **Algorithmic Rigor**: **ETCPC 2025 Honorable Mention** with **800+ solved algorithmic challenges** across Codeforces, LeetCode, and HackerRank specializing in graph theory, dynamic programming, and computational complexity.
-- 🌐 **Impact & Leadership**: Lead Architect @ **SRAHub** and Founder of **Tech With Hos**, mentoring 1,000+ developers in systems architecture, concurrent programming, and software craftsmanship.
-
-<br/>
-
----
-
-### 🛠️ Technical Arsenal & Engineering Domains
-
-<div align="center">
-
-<!-- TIER 1: LANGUAGES & CORE RUNTIMES -->
-<p>
-  <b>LANGUAGES & CORE RUNTIMES</b><br/>
-  <img src="https://skillicons.dev/icons?i=go,python,fastapi,cpp,ts,js,bash&theme=dark" alt="Languages & Frameworks" />
-</p>
-
-<!-- TIER 2: DISTRIBUTED BACKENDS & DATA STORES -->
-<p>
-  <b>DISTRIBUTED BACKEND & DATA STORES</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Backend & Databases" />
-</p>
-
-<!-- TIER 3: PRODUCTION AI & MACHINE LEARNING -->
-<p>
-  <b>ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</b><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI & Machine Learning" />
-</p>
-
-<!-- TIER 4: CLOUD INFRASTRUCTURE, DEVOPS & CONTAINER ORCHESTRATION -->
-<p>
-  <b>CLOUD, DEVOPS & INFRASTRUCTURE</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,vercel&theme=dark" alt="DevOps & Cloud" />
-</p>
-
-<!-- TIER 5: TESTING & DEVELOPER TOOLING -->
-<p>
-  <b>TESTING, PROTOCOLS & TOOLING</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" alt="Testing & Tools" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-### 🏛️ Flagship Systems & Production Architectures
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ CodeSentinel — AI Code Review & Security Auditor</h3>
-      <p align="center">
-        <a href="https://codesentinel-three.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-CodeSentinel-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>&nbsp;
-        <a href="https://github.com/hosama-adem/codesentinel-platform">
-          <img src="https://img.shields.io/badge/Source_Code-CodeSentinel-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="CodeSentinel Repo" />
-        </a>
-      </p>
-      <p>Automated <b>AI pull request & security scanner</b> that evaluates repositories for vulnerabilities, AST logic anti-patterns, cyclomatic complexity anomalies, and test coverage gaps.</p>
-      <ul>
-        <li><b>Security Detection</b>: High-precision detection of OWASP Top 10 vulnerabilities with line-specific diff refactoring suggestions.</li>
-        <li><b>Capabilities</b>: Multi-model evaluation support (Claude / GPT-4o), interactive unified diff UI, and automated webhook integration.</li>
-        <li><b>Stack</b>: FastAPI, React 18, TypeScript, TailwindCSS, Docker.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 SRAHub — Collaborative Engineering & Research Platform</h3>
-      <p align="center">
-        <a href="https://github.com/hosama-adem">
-          <img src="https://img.shields.io/badge/Platform-SRAHub-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="SRAHub" />
-        </a>
-      </p>
-      <p>A high-performance developer hub and research platform architected for student engineers and researchers to collaborate, share architectural blueprints, benchmark systems, and coordinate large-scale engineering initiatives.</p>
-      <ul>
-        <li><b>Scalability</b>: Modular microservices backend engineered for concurrent team workflows and code evaluation.</li>
-        <li><b>Data Integrity</b>: Structured schema validation, RBAC permissions, and automated deployment pipelines.</li>
-        <li><b>Stack</b>: Go, Python/FastAPI, PostgreSQL, Docker, GitHub Actions.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚖️ Go Load Balancer — Concurrent Reverse Proxy</h3>
-      <p align="center">
-        <a href="https://github.com/hosama-adem/go-loadbalancer">
-          <img src="https://img.shields.io/badge/Source_Code-Go_LoadBalancer-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Go Load Balancer Repo" />
-        </a>
-      </p>
-      <p>High-throughput HTTP reverse proxy and load balancing engine written in pure <b>Go</b> featuring active background health checking, mutex-synchronized backend pools, and configurable retry policies.</p>
-      <ul>
-        <li><b>Throughput</b>: Handles thousands of concurrent HTTP requests with zero-allocation round-robin routing algorithms.</li>
-        <li><b>Fault-Tolerance</b>: Mutex-safe dynamic server pool management with automatic dead-node ejection and exponential backoff retry.</li>
-        <li><b>Core Stack</b>: Go (Golang), Goroutines, Mutex Synchronization, GitHub Actions CI.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ Task Manager API — Clean Architecture & DDD</h3>
-      <p align="center">
-        <a href="https://github.com/hosama-adem/task_manager_final">
-          <img src="https://img.shields.io/badge/Source_Code-Task_Manager-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Task Manager Repo" />
-        </a>
-      </p>
-      <p>Enterprise REST API crafted in <b>Go (Gin) and MongoDB</b> strictly following Uncle Bob's <b>Clean Architecture</b> (Delivery, Usecase, Domain, and Repository layers) with strict boundary isolation.</p>
-      <ul>
-        <li><b>Clean Boundaries</b>: 100% decoupled business logic from HTTP transport and MongoDB persistence layers.</li>
-        <li><b>Reliability & RBAC</b>: Granular JWT role-based access control with comprehensive unit tests powered by Testify and Mockery.</li>
-        <li><b>Stack</b>: Go, Gin Framework, MongoDB Driver, JWT, Bcrypt, Mockery.</li>
-      </ul>
+    <td>
+      ⚙️ Backend &amp; distributed-systems engineer and <b>A2SV (Africa to Silicon Valley) Fellow</b> at ASTU, building <b>fault-tolerant, high-concurrency services in Go</b> and <b>production AI systems</b> with Python, FastAPI &amp; Docker.<br/>
+      🧱 I architect concurrent reverse proxies, load balancers and <b>Clean Architecture / DDD</b> APIs, alongside RAG pipelines and AI code-review &amp; security tooling like <a href="https://codesentinel-three.vercel.app"><b>CodeSentinel</b></a>.<br/>
+      🏆 Algorithms are my training ground: <a href="https://github.com/hosama-adem/A2SV_Solved_Questions"><b>800+ problems solved</b></a> across Codeforces, LeetCode &amp; HackerRank and an <b>ETCPC 2025 Honorable Mention</b>.<br/>
+      🌐 Open-source contributor to <a href="https://github.com/fastapi/fastapi"><b>FastAPI</b></a>, exploring OpenTelemetry-native observability with <a href="https://github.com/SigNoz/signoz"><b>SigNoz</b></a> to keep systems fast and resilient under load.<br/>
+      🎥 <b>Lead Architect @ SRAHub</b> and founder of <a href="https://youtube.com/@TechWithHos"><b>Tech With Hos</b></a>, mentoring <b>1,000+ developers</b> in system design, Go concurrency and software craftsmanship.<br/>
+      🚀 Currently scaling distributed microservices and automated security analysis, and open to <b>backend, distributed systems &amp; AI infrastructure</b> roles.
     </td>
   </tr>
 </table>
 
-<br/>
-
----
-
-### 🌐 Open Source & Ecosystem Contributions
-
-As an advocate for developer tooling and open infrastructure, I actively study and contribute to production open-source frameworks:
-
-- ⚡ **[FastAPI](https://github.com/fastapi/fastapi)**: Contributed documentation precision improvements and type annotation enhancements to Python's premier high-performance ASGI web framework.
-- 🔭 **[SigNoz](https://github.com/SigNoz/signoz)**: Explored OpenTelemetry-native APM, distributed tracing, and metrics instrumentation pipelines for high-resilience microservice backends.
-- 📦 **[Boot.dev CI/CD](https://github.com/bootdotdev/learn-cicd-starter)**: Automated delivery and continuous integration pipelines with automated testing and container releases.
+<div align="center">
 
 <br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=hosama-adem&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
 
-### 🏆 Algorithmic Rigor & Competitive Programming
-
-- 🥇 **ETCPC 2025 Honorable Mention**: Competed against top collegiate engineering teams in complex graph modeling, number theory, dynamic programming, and computational geometry.
-- ⚡ **800+ DSA Solutions ([A2SV Solved Repository](https://github.com/hosama-adem/A2SV_Solved_Questions))**: Curated archive of 800+ solved problems across **LeetCode**, **Codeforces**, and **HackerRank** categorized by algorithmic paradigm.
-- 🌍 **A2SV (Africa to Silicon Valley) Fellow**: Selected for an elite, highly-competitive software engineering program training top African talent for global Big Tech engineering roles.
+</div>
 
 <br/>
 
 ---
 
-### 👥 Leadership, Engineering Impact & Communities
+### 🛠️ Tech Stack
 
-- 🌐 **Architect @ SRAHub**: Driving architecture, scalable backend systems, and technical initiatives focused on collaborative software research and high-standard engineering.
-- 🎥 **Founder @ [Tech With Hos](https://youtube.com/@TechWithHos)**: Educational platform and community of **1,000+ developers** teaching Go concurrency, Clean Architecture, FastAPI, and data structures & algorithms.
-- 📢 **[Telegram Engineering Community](https://t.me/ethhostech)**: Sharing daily system architecture insights, LeetCode problem walkthroughs, and backend engineering deep dives.
+<div align="center">
+  <img src="./assets/tech-stack.svg" alt="Go · Python · FastAPI · C++ · TypeScript · JavaScript · Bash · PostgreSQL · MongoDB · Redis · MySQL · PyTorch · TensorFlow · scikit-learn · OpenCV · Docker · Kubernetes · GitHub Actions · Linux · Vercel · Git · Postman · VS Code" width="90%" />
+</div>
 
 <br/>
 
@@ -226,16 +97,7 @@ As an advocate for developer tooling and open infrastructure, I actively study a
 
 <br/>
 
----
-
-### 🎯 Collaboration & Engineering Inquiries
-
-- 🔭 **Current Focus**: Scaling distributed microservices, network proxies in Go, and automated security code analysis.
-- 🤝 **Open For**: Distributed systems engineering roles, Go backend services, production AI/RAG system architecture, and open-source collaboration.
-- 💬 **Ask Me About**: Concurrency in Go, Clean Architecture & DDD, RAG optimization, FAISS indexing, and Algorithmic problem solving.
-- 📬 **Direct Contact**: Connect on [LinkedIn](https://www.linkedin.com/in/hosama-adem) or reach out via [Email](mailto:hosamaadem8@gmail.com).
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,15:388bfd,40:1f6feb,70:161b22,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
 
 <div align="center">
   <sub>Architected with precision by <a href="https://github.com/hosama-adem"><b>Hosama Adem</b></a> • Built for scale, designed for impact. ⚡</sub>
