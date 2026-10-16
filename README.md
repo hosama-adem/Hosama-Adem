@@ -74,13 +74,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-<a href="https://github.com/hosama-adem">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="56" alt="GitHub" />
-</a>
-
-<br/><br/>
-
+  <a href="https://github.com/hosama-adem"><img src="https://cdn.simpleicons.org/github/58A6FF" width="36" height="36" alt="GitHub" /></a><br/>
   <img src="./assets/tech-stack.svg" alt="GitHub · Git · Postman · VS Code · PostgreSQL · MongoDB · Redis · MySQL · FastAPI · PyTorch · TensorFlow · scikit-learn · OpenCV · Docker · Kubernetes · GitHub Actions · Linux · Vercel · Bash · Go · Python · C · C++ · TypeScript · JavaScript · React" />
 </div>
 
