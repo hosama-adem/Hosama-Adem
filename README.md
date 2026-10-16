@@ -74,6 +74,34 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
+
+<!-- ═══════════════════ TECH STACK PYRAMID · GITHUB AT THE APEX ═══════════════════ -->
+<a href="https://github.com/hosama-adem">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="56" alt="GitHub" />
+</a>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=go,py&theme=dark" height="48" alt="Go · Python" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes&theme=dark" height="48" alt="FastAPI · Docker · Kubernetes" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" height="48" alt="PostgreSQL · MongoDB · Redis · MySQL" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,c,cpp&theme=dark" height="48" alt="TypeScript · JavaScript · React · C · C++" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,linux,git,githubactions,vercel&theme=dark" height="48" alt="PyTorch · TensorFlow · Linux · Git · GitHub Actions · Vercel" />
+
+<br/><br/>
+
   <img src="./assets/tech-stack.svg" alt="GitHub · Git · Postman · VS Code · PostgreSQL · MongoDB · Redis · MySQL · FastAPI · PyTorch · TensorFlow · scikit-learn · OpenCV · Docker · Kubernetes · GitHub Actions · Linux · Vercel · Bash · Go · Python · C · C++ · TypeScript · JavaScript · React" />
 </div>
 
