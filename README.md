@@ -53,7 +53,7 @@
       🧱 I architect concurrent reverse proxies, load balancers and <b>Clean Architecture / DDD</b> APIs, alongside RAG pipelines and AI code-review &amp; security tooling like <a href="https://codesentinel-three.vercel.app"><b>CodeSentinel</b></a>.<br/>
       🏆 Algorithms are my training ground: <a href="https://github.com/hosama-adem/A2SV_Solved_Questions"><b>800+ problems solved</b></a> across Codeforces, LeetCode &amp; HackerRank and an <b>ETCPC 2025 Honorable Mention</b>.<br/>
       🌐 Open-source contributor to <a href="https://github.com/fastapi/fastapi"><b>FastAPI</b></a>, exploring OpenTelemetry-native observability with <a href="https://github.com/SigNoz/signoz"><b>SigNoz</b></a> to keep systems fast and resilient under load.<br/>
-      🎥 <b>Lead Architect @ SRAHub</b> and founder of <a href="https://youtube.com/@TechWithHos"><b>Tech With Hos</b></a>, mentoring <b>1,000+ developers</b> in system design, Go concurrency and software craftsmanship.<br/>
+      🎥 <b>Lead Architect @ SRAHub</b> and founder of <a href="https://youtube.com/@TechWithHos"><b>Tech With Hos</b></a>, mentoring <b></b> in system design, Go concurrency and software craftsmanship.<br/>
        Currently scaling distributed microservices and automated security analysis, and open to <b>backend, distributed systems &amp; AI infrastructure</b> roles.
     </td>
   </tr>
